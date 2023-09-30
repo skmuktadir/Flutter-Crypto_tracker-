@@ -1,4 +1,4 @@
-# Crypto Tracker Completed
+# Crypto Tracker 
 
 A new Flutter project.
 
